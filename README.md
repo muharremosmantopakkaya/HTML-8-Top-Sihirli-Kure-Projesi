@@ -2,7 +2,7 @@
 
 Bu proje, sıkça bilinen "8 top" sihirli küre oyununun basit bir web versiyonudur. Kullanıcıya rastgele mesajlar gösteren sihirli bir 8 top görseli içerir.
 
-🌟 Bu proje, Ömer Fatih Tanrıverdi hocamın katkılarıyla geliştirilmiştir.
+🌟 Bu proje, Ömer Fatih Tanrıverdi hocamızın katkılarıyla geliştirilmiştir.
 
 ## Özellikler
 
